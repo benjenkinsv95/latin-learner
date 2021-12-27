@@ -10,6 +10,10 @@ import SignIn from './components/auth/SignIn'
 import SignOut from './components/auth/SignOut'
 import ChangePassword from './components/auth/ChangePassword'
 
+import Home from './components/Home'
+import Song from './components/Song'
+import Playlist from './components/Playlist'
+
 const App = () => {
   const [user, setUser] = useState(null)
   const [msgAlerts, setMsgAlerts] = useState([])
@@ -38,7 +42,7 @@ const App = () => {
           deleteAlert={deleteAlert}
         />
       ))}
-      <main className='container'>
+      <main>
         <Routes>
           <Route
             path='/sign-up'
@@ -56,6 +60,12 @@ const App = () => {
             path='/change-password'
             element={<ChangePassword msgAlert={msgAlert} user={user} /> }
           />
+          <Route
+            path='/'
+            element={<Home msgAlert={msgAlert} />}
+          />
+          <Route path='/songs/:id' element={<Song msgAlert={msgAlert} />} />
+          <Route path='/playlists/:id' element={<Playlist msgAlert={msgAlert} />} />
 
         </Routes>
       </main>

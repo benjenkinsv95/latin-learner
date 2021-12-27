@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/latin-learner/static/css/main.257926a1.chunk.css",
+    "main.js": "/latin-learner/static/js/main.382c8d58.chunk.js",
+    "main.js.map": "/latin-learner/static/js/main.382c8d58.chunk.js.map",
+    "runtime-main.js": "/latin-learner/static/js/runtime-main.c2618a24.js",
+    "runtime-main.js.map": "/latin-learner/static/js/runtime-main.c2618a24.js.map",
+    "static/js/2.5706311b.chunk.js": "/latin-learner/static/js/2.5706311b.chunk.js",
+    "static/js/2.5706311b.chunk.js.map": "/latin-learner/static/js/2.5706311b.chunk.js.map",
+    "index.html": "/latin-learner/index.html",
+    "static/css/main.257926a1.chunk.css.map": "/latin-learner/static/css/main.257926a1.chunk.css.map",
+    "static/js/2.5706311b.chunk.js.LICENSE.txt": "/latin-learner/static/js/2.5706311b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2618a24.js",
+    "static/js/2.5706311b.chunk.js",
+    "static/css/main.257926a1.chunk.css",
+    "static/js/main.382c8d58.chunk.js"
+  ]
+}

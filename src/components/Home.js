@@ -19,7 +19,9 @@ const Home = () => {
 
   useEffect(() => {
     getPlaylists()
-      .then(response => setPlaylists(response.data.playlists))
+    // TODO: Add playlists
+    //   .then(response => setPlaylists(response.data.playlists))
+      .then(response => setPlaylists([]))
       .catch(console.error)
 
     getSongs()

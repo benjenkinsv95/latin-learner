@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col'
 import Card from 'react-bootstrap/Card'
 
 import { getPlaylists } from '../api/playlists'
-import { getSongs } from '../api/songs'
+import { getSongs } from '../fake-api/songs'
 
 const Home = () => {
   const [playlists, setPlaylists] = useState([])
@@ -25,7 +25,10 @@ const Home = () => {
       .catch(console.error)
 
     getSongs()
-      .then(response => setSongs(response.data.songs))
+      .then(response => {
+        setSongs(response.data.songs)
+        console.log(response.data.songs)
+      })
       .catch(console.error)
   }, [])
 

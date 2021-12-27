@@ -2,7 +2,7 @@ import React from 'react'
 import Lyrics from './Lyrics'
 
 const lyricsStyles = {
-  minWidth: '400px',
+  minWidth: '450px',
   fontSize: '1.5rem',
   padding: '1rem',
   overflowY: 'auto',

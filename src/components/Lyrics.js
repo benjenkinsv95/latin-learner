@@ -27,10 +27,17 @@ function Lyrics ({ player, selectedLine, song }) {
         <small style={{ color: 'cyan', fontWeight: '500' }}>
           {line.translation}
         </small>
+        {line.alternateTranslation && (<>
+          <br />
+          <small style={{ color: 'hotpink', fontWeight: '500' }}>
+            {line.alternateTranslation}
+          </small>
+        </>)}
       </p>
     ))
     return (
       <div key={index} style={{ borderBottom: '2px solid white' }}>
+        {section.name && <h6>{section.name}</h6>}
         {lineElements}
       </div>
     )

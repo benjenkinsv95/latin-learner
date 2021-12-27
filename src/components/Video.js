@@ -52,8 +52,8 @@ function Video ({
     }
   }
 
-  const startTimestampSeconds =
-  allLines[0].minutesTimestamp * 60 + allLines[0].secondsTimestamp
+  //   const startTimestampSeconds =
+  //   allLines[0].minutesTimestamp * 60 + allLines[0].secondsTimestamp
 
   return (
     <ReactPlayer
@@ -68,13 +68,13 @@ function Video ({
       ref={player => {
         setPlayer(player)
       }}
-      config={{
-        youtube: {
-          playerVars: {
-            start: startTimestampSeconds
-          }
-        }
-      }}
+    //   config={{
+    //     youtube: {
+    //       playerVars: {
+    //         start: startTimestampSeconds
+    //       }
+    //     }
+    //   }}
     />
   )
 }

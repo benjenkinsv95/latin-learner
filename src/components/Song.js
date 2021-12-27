@@ -1,6 +1,6 @@
 import useWindowDimensions from './useWindowDimensions'
 import React, { useEffect, useState } from 'react'
-import { getSongById } from '../api/songs'
+import { getSongById } from '../fake-api/songs'
 import { useParams } from 'react-router-dom'
 import Video from './Video'
 import Sidebar from './Sidebar'

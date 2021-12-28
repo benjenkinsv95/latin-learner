@@ -14,8 +14,8 @@ function Video ({
   allLines,
   youtubeId
 }) {
-  const handleProgress = event => {
-    const playedSeconds = Math.floor(event.playedSeconds)
+  const handleProgress = playedSeconds => {
+    playedSeconds = Math.floor(playedSeconds)
 
     const currentLine = allLines.find(line => {
       const timestampSeconds =
@@ -64,7 +64,13 @@ function Video ({
       onPlay={isPlaying => setPlaying(isPlaying)}
       loop={true}
       url={`https://www.youtube.com/watch?v=${youtubeId}`}
-      onProgress={handleProgress}
+      onProgress={event => {
+        handleProgress(event.playedSeconds)
+        setTimeout(() => handleProgress(event.playedSeconds + 0.2), 200)
+        setTimeout(() => handleProgress(event.playedSeconds + 0.4), 400)
+        setTimeout(() => handleProgress(event.playedSeconds + 0.6), 600)
+        setTimeout(() => handleProgress(event.playedSeconds + 0.8), 800)
+      }}
       ref={player => {
         setPlayer(player)
       }}

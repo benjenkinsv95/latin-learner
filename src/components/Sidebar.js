@@ -1,15 +1,6 @@
 import React from 'react'
 import Lyrics from './Lyrics'
-
-const lyricsStyles = {
-  minWidth: '450px',
-  fontSize: '1.5rem',
-  padding: '1rem',
-  overflowY: 'auto',
-  position: 'relative',
-  color: 'white',
-  background: 'black'
-}
+import useWindowDimensions from './useWindowDimensions'
 
 function Sidebar ({
   setStartMinutes,
@@ -22,6 +13,18 @@ function Sidebar ({
   endSeconds,
   ...props
 }) {
+  const { width } = useWindowDimensions()
+
+  const lyricsStyles = {
+    minWidth: width >= 600 ? '600px' : 'auto',
+    fontSize: '1.5rem',
+    padding: '1rem',
+    overflowY: 'auto',
+    position: 'relative',
+    color: 'white',
+    background: 'black'
+  }
+
   return (
     <div style={lyricsStyles}>
       {/* <label>Start Minutes</label>

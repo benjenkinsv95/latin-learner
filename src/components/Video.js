@@ -1,5 +1,6 @@
 import React from 'react'
 import ReactPlayer from 'react-player'
+import useWindowDimensions from './useWindowDimensions'
 
 function Video ({
   setPlayer,
@@ -14,6 +15,8 @@ function Video ({
   allLines,
   youtubeId
 }) {
+  const { width } = useWindowDimensions()
+
   const handleProgress = playedSeconds => {
     playedSeconds = Math.floor(playedSeconds)
 
@@ -26,11 +29,13 @@ function Video ({
     if (currentLine) {
       console.log(currentLine)
       const index = allLines.findIndex(s => s._id === currentLine._id)
-      const closerIndex = Math.max(index - 3, 0)
+      // how many previous lines of text should be on the screen. Only 1 for small screens
+      const distance = width > 800 ? 3 : 1
+      const closerIndex = Math.max(index - distance, 0)
       const closerLine = allLines[closerIndex]
 
       setSelectedLine(currentLine)
-      document.getElementById(closerLine._id).scrollIntoView()
+      document.getElementById(closerLine._id)?.scrollIntoView()
     }
 
     const startTimestampSeconds = startMinutes * 60 + startSeconds

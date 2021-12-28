@@ -22,7 +22,8 @@ function Sidebar ({
     overflowY: 'auto',
     position: 'relative',
     color: 'white',
-    background: 'black'
+    background: 'black',
+    textAlign: 'center'
   }
 
   return (

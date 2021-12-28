@@ -16,13 +16,15 @@ function Lyrics ({ player, selectedLine, song }) {
         key={j}
         onClick={() => handleClick(line)}
         style={{
-          background: line._id === selectedLine?._id ? 'gray' : 'black'
+          background: line._id === selectedLine?._id ? '#444' : 'black',
+          fontSize: line._id === selectedLine?._id ? '32px' : '24px'
+
         }}
       >
-        <small>
+        {/* <small>
           [{line.minutesTimestamp}:
           {line.secondsTimestamp.toString().padStart(2, '0')}]
-        </small>{' '}
+        </small>{' '} */}
         {line.source} <br />
         <small style={{ color: 'cyan', fontWeight: '500' }}>
           {line.translation}

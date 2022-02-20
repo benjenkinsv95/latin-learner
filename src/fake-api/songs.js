@@ -391,7 +391,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035d6',
-                  source: 'elapsus Pyrrhi de caede',
+                  source: 'ēlāpsus Pyrrhī dē caede',
                   translation: 'escaping murder at the hands of Pyrrhus,',
                   alternateTranslation: 'escaping from murder by Pyrrhus',
                   minutesTimestamp: 0,
@@ -401,7 +401,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035d7',
-                  source: 'Polites',
+                  source: 'Polītēs',
                   translation: 'Polites',
                   minutesTimestamp: 0,
                   secondsTimestamp: 7,
@@ -410,7 +410,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035d8',
-                  source: 'unus natorum Priami,',
+                  source: 'ūnus nātōrum Priamī,',
                   translation: 'one of Priam\'s sons',
                   minutesTimestamp: 0,
                   secondsTimestamp: 10,
@@ -419,7 +419,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035d9',
-                  source: 'per tela, per hostis',
+                  source: 'per tēla, per hostēs',
                   translation: 'through spears, through enemies',
                   minutesTimestamp: 0,
                   secondsTimestamp: 12,
@@ -428,7 +428,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035da',
-                  source: 'porticibus longis fugit',
+                  source: 'porticibus longīs fugit',
                   translation: 'is fleeing down the long hallways',
                   minutesTimestamp: 0,
                   secondsTimestamp: 14,
@@ -437,7 +437,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035db',
-                  source: 'et vacua atria lustrat,',
+                  source: 'et vacua ātria lūstrat,',
                   translation: 'and is crossing the open courts,',
                   minutesTimestamp: 0,
                   secondsTimestamp: 16,
@@ -463,7 +463,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8035de',
-                  source: 'illum ardens infesto vulnere Pyrrhus',
+                  source: 'Illum ārdēns īnfestō vulnere Pyrrhus',
                   translation: 'Pyrrhus, burning with deadly aim,',
                   minutesTimestamp: 0,
                   secondsTimestamp: 22,
@@ -472,7 +472,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035df',
-                  source: 'insequitur, iam iamque manu tenet et premit hasta.',
+                  source: 'īnsequitur, iam iamque manū tenet',
                   translation: 'follows, and now he almost has a hold of him',
                   minutesTimestamp: 0,
                   secondsTimestamp: 28,
@@ -481,7 +481,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e0',
-                  source: 'et premit hasta.',
+                  source: 'et premit hastā.',
                   translation: 'and closes on him with his spear',
                   minutesTimestamp: 0,
                   secondsTimestamp: 31,
@@ -490,7 +490,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e1',
-                  source: 'ut tandem ante oculos evasit et ora parentum,',
+                  source: 'Ut tandem ante oculōs ēvāsit et ōra parentum,',
                   translation:
               'when at last he came before the eyes and faces of his parents,',
                   minutesTimestamp: 0,
@@ -500,7 +500,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e2',
-                  source: 'concidit ac multo vitam cum sanguine fudit.',
+                  source: 'concidit ac multō vītam cum sanguine fūdit.',
                   translation:
               'he fell and poured out his life in a stream of blood.',
                   minutesTimestamp: 0,
@@ -518,7 +518,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8035e4',
-                  source: 'hic Priamus, quamquam in media iam morte tenetur,',
+                  source: 'Hīc Priamus, quamquam in mediā iam morte tenētur,',
                   translation: 'Here Priam, though held in the midst of death, ',
                   minutesTimestamp: 0,
                   secondsTimestamp: 44,
@@ -527,7 +527,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e5',
-                  source: 'non tamen abstinuit nec voci iraeque pepercit:',
+                  source: 'nōn tamen abstinuit nec vōcī īraeque pepercit:',
                   translation: 'nevertheless did not hold back or spare angry words',
                   minutesTimestamp: 0,
                   secondsTimestamp: 49,
@@ -536,7 +536,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e6',
-                  source: '\'at tibi pro scelere,\' exclamat, \'pro talibus ausis',
+                  source: '\'At tibi prō scelere,\' exclāmat, \'prō tālibus ausīs',
                   translation:
               '\'But you – for such wickedness,\' he shouts, \'for such brazen deeds',
                   minutesTimestamp: 0,
@@ -546,7 +546,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e7',
-                  source: 'di, si qua est caelo pietas quae talia curet,',
+                  source: 'dī, sī quā est caelō pietās quae tālia cūret,',
                   translation:
               'may the gods, if there is any justice in heaven that has regard for such things,',
                   minutesTimestamp: 0,
@@ -556,7 +556,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e8',
-                  source: 'persolvant grates dignas et praemia reddant',
+                  source: 'persolvant grātēs dignās et praemia reddant',
                   translation:
               'pay you just thanks and give you your fitting reward,',
                   minutesTimestamp: 1,
@@ -566,7 +566,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035e9',
-                  source: 'debita, qui nati coram me cernere letum',
+                  source: 'dēbita, quī nātī cōram mē cernere lētum',
                   translation: 'you who made me watch my son\'s death before my eyes',
                   minutesTimestamp: 1,
                   secondsTimestamp: 8,
@@ -575,7 +575,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035ea',
-                  source: 'fecisti et patrios foedasti funere vultus.',
+                  source: 'fēcistī et patriōs foedāstī fūnere vultūs.',
                   translation: 'and fouled a father\'s face with murder.',
                   minutesTimestamp: 1,
                   secondsTimestamp: 12,
@@ -592,7 +592,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8035ec',
-                  source: 'at non ille, satum quo te mentiris, Achilles',
+                  source: 'At nōn ille, satum quō tē mentīris, Achillēs',
                   translation:
               'But that Achilles, whose son you falsely say you are,',
                   minutesTimestamp: 1,
@@ -602,7 +602,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035ed',
-                  source: 'talis in hoste fuit Priamo; sed iura fidemque',
+                  source: 'tālis in hoste fuit Priamō; sed iūra fidemque',
                   translation:
               'was not like this to his enemy Priam; but he respected a suppliant\'s rights and trust,',
                   minutesTimestamp: 1,
@@ -612,7 +612,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035ee',
-                  source: 'supplicis erubuit corpusque exsangue sepulcro',
+                  source: 'supplicis ērubuit corpusque exsangue sepulcrō',
                   translation:
               'and returned the bloodless body of Hector for its burial',
                   minutesTimestamp: 1,
@@ -622,7 +622,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035ef',
-                  source: 'reddidit Hectoreum meque in mea regna remisit."',
+                  source: 'reddidit Hectoreum mēque in mea rēgna remīsit.\'',
                   translation: 'and sent me back into my kingdom.\'',
                   minutesTimestamp: 1,
                   secondsTimestamp: 32,
@@ -639,7 +639,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8035f1',
-                  source: 'sic fatus senior telumque imbelle sine ictu',
+                  source: 'Sīc fātus senior tēlumque imbelle sine ictū',
                   translation:
               'So the old man spoke and he hurled his spear, harmlessly and without force,',
                   minutesTimestamp: 1,
@@ -649,7 +649,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035f2',
-                  source: 'coniecit, rauco quod protinus aere repulsum,',
+                  source: 'coniēcit, raucō quod prōtinus aere repulsum,',
                   translation:
               'which was instantly rejected with a clang by the bronze,',
                   minutesTimestamp: 1,
@@ -659,7 +659,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035f3',
-                  source: 'et summo clipei nequiquam umbone pependit.',
+                  source: 'et summō clipeī nēquīquam umbōne pependit.',
                   translation: 'and hung in vain from the shield\'s outer layer.',
                   minutesTimestamp: 1,
                   secondsTimestamp: 50,
@@ -668,7 +668,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035f4',
-                  source: 'cui Pyrrhus: "referes ergo haec et nuntius ibis',
+                  source: 'cui Pyrrhus: "Referēs ergō haec et nūntius ībis',
                   translation:
               'Pyrrhus replied: \'so then you will recall these things and go as a messenger',
                   minutesTimestamp: 1,
@@ -678,7 +678,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035f5',
-                  source: 'Pelidae genitori. illi mea tristia facta',
+                  source: 'Pēlīdae genitōrī. Illī mea trīstia facta',
                   translation:
               'to my father, the son of Peleus. Make sure to tell him about my sad deeds',
                   minutesTimestamp: 2,
@@ -688,7 +688,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035f6',
-                  source: 'degeneremque Neoptolemum narrare memento.',
+                  source: 'dēgeneremque Neoptolemum nārrāre mementō.',
                   translation: 'and about the degenerate Neoptolemus.',
                   minutesTimestamp: 2,
                   secondsTimestamp: 6,
@@ -714,7 +714,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035f9',
-                  source: 'hoc dicens altaria ad ipsa trementem',
+                  source: 'Hoc dīcēns altāria ad ipsa trementem',
                   translation: 'Saying this, to the very altar he dragged the man,',
                   minutesTimestamp: 2,
                   secondsTimestamp: 16,
@@ -723,7 +723,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035fa',
-                  source: 'traxit et in multo lapsantem sanguine nati,',
+                  source: 'trāxit et in multō lāpsantem sanguine nātī,',
                   translation: 'trembling and slipping in pools of his son\'s blood',
                   minutesTimestamp: 2,
                   secondsTimestamp: 21,
@@ -732,7 +732,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035fb',
-                  source: 'implicuitque comam laeva, dextraque coruscum',
+                  source: 'implicuitque comam laevā, dextrāque coruscum',
                   translation:
               'and he entwined his left hand in the man\'s hair, and with his right',
                   minutesTimestamp: 2,
@@ -742,7 +742,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035fc',
-                  source: 'extulit ac lateri capulo tenus abdidit ensem.',
+                  source: 'extulit ac laterī capulō tenus abdidit ēnsem.',
                   translation:
               'he raised his sword with a flash and plunged it up to the hilt in the man\'s side.',
                   minutesTimestamp: 2,
@@ -760,7 +760,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8035fe',
-                  source: 'haec finis Priami fatorum, hic exitus illum',
+                  source: 'Haec fīnis Priamī fātōrum, hic exitus illum',
                   translation: 'This was the end of Priam\'s fate, this death',
                   minutesTimestamp: 2,
                   secondsTimestamp: 50,
@@ -769,7 +769,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8035ff',
-                  source: 'sorte tulit Troiam incensam et prolapsa videntem',
+                  source: 'sorte tulit Trōiam incēnsam et prōlāpsa videntem',
                   translation: 'fell to him by lot, seeing Troy burned',
                   minutesTimestamp: 3,
                   secondsTimestamp: 0,
@@ -778,7 +778,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803600',
-                  source: 'Pergama, tot quondam populis terrisque superbum',
+                  source: 'Pergama, tot quondam populīs terrīsque superbum',
                   translation:
               'and its citadel in ruin, once proud with so many peoples and lands,',
                   minutesTimestamp: 3,
@@ -788,7 +788,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803601',
-                  source: 'regnatorem Asiae. iacet ingens litore truncus',
+                  source: 'rēgnātōrem Asiae. Iacet ingēns lītore truncus',
                   translation: 'the ruler of Asia. A mighty trunk lies on the shore,',
                   minutesTimestamp: 3,
                   secondsTimestamp: 18,
@@ -797,7 +797,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803602',
-                  source: 'avulsumque umeris caput et sine nomine corpus.',
+                  source: 'āvulsumque umerīs caput et sine nōmine corpus.',
                   translation:
               'the head torn from the shoulders, a body without a name.',
                   minutesTimestamp: 3,
@@ -1889,7 +1889,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa80367b',
-                  source: 'Arma virumque cano,',
+                  source: 'Arma virumque canō,',
                   translation: 'I sing of weapons and a man',
                   minutesTimestamp: 0,
                   secondsTimestamp: 7,
@@ -1898,7 +1898,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa80367c',
-                  source: 'Troiae qui primus ab oris,',
+                  source: 'Trōiae quī prīmus ab ōrīs,',
                   translation: 'who first from the coasts of Troy,',
                   minutesTimestamp: 0,
                   secondsTimestamp: 9,
@@ -1907,7 +1907,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa80367d',
-                  source: 'Italiam, fato profugus, Laviniaque venit',
+                  source: 'Ītaliam fātō profugus Lāvīniaque vēnit',
                   translation:
               'exiled by fate, came to Italy and the Lavinian (shores)',
                   minutesTimestamp: 0,
@@ -1917,7 +1917,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa80367e',
-                  source: 'Litora, multum ille et terris iactatus et alto',
+                  source: 'lītora, multum ille et terrīs iactātus et altō',
                   translation: 'he was tossed much both on land and on sea',
                   minutesTimestamp: 0,
                   secondsTimestamp: 21,
@@ -1926,7 +1926,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa80367f',
-                  source: 'vi superum saevae memorem lunonis ob iram;',
+                  source: 'vī superum, saevae memorem Iūnōnis ob īram;',
                   translation:
               'by the power of the gods, on account of the mindful anger of savage Juno',
                   minutesTimestamp: 0,
@@ -1936,7 +1936,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803680',
-                  source: 'multa quoque et bello passus,',
+                  source: 'multa quoque et bellō passus,',
                   translation: 'he having suffered many (things) and also from war ',
                   minutesTimestamp: 0,
                   secondsTimestamp: 36,
@@ -1954,7 +1954,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803682',
-                  source: 'inferretque deos Latio,',
+                  source: 'īnferretque deōs Latiō,',
                   translation: 'and was bringing in the gods to Latium,',
                   minutesTimestamp: 0,
                   secondsTimestamp: 43,
@@ -1963,7 +1963,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803683',
-                  source: 'genus unde Latinum,',
+                  source: 'genus unde Latīnum,',
                   translation: 'from whence [came] the race of Latins',
                   minutesTimestamp: 0,
                   secondsTimestamp: 46,
@@ -1972,7 +1972,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803684',
-                  source: 'Albanique patres',
+                  source: 'Albānīque patrēs',
                   translation: 'and Alban fathers,',
                   minutesTimestamp: 0,
                   secondsTimestamp: 50,
@@ -1981,7 +1981,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803685',
-                  source: 'atque altae moenia Romae.',
+                  source: 'atque altae moenia Rōmae.',
                   translation: 'and of the high city walls of Rome.',
                   minutesTimestamp: 0,
                   secondsTimestamp: 53,
@@ -1990,7 +1990,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803686',
-                  source: 'Musa, mihi causas memora,',
+                  source: 'Mūsa, mihī causās memorā,',
                   translation: 'Muses, recall the causes to me',
                   minutesTimestamp: 0,
                   secondsTimestamp: 58,
@@ -1999,7 +1999,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803687',
-                  source: 'quo numine laeso,',
+                  source: 'quō nūmine laesō,',
                   translation: 'By what damaged nod',
                   minutesTimestamp: 1,
                   secondsTimestamp: 2,
@@ -2008,7 +2008,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803688',
-                  source: 'quidve dolens',
+                  source: 'quidve dolēns',
                   translation: 'or grieving what,',
                   minutesTimestamp: 1,
                   secondsTimestamp: 5,
@@ -2017,7 +2017,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa803689',
-                  source: 'regina deum tot volvere casus (impulerit)',
+                  source: 'rēgīna deum tot volvere cāsūs (impulerit)',
                   translation:
               'the queen of the gods (compelled a man to) to undergo so many misfortunes',
                   minutesTimestamp: 1,
@@ -2027,7 +2027,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa80368a',
-                  source: 'insignem pietate virum, tot adire labores (impulerit)',
+                  source: 'īnsignem pietāte virum, tot adīre labōrēs (impulerit)',
                   translation:
               'a man marked by piety, (compelled) to come to so many labors. ',
                   minutesTimestamp: 1,
@@ -2037,7 +2037,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa80368b',
-                  source: 'impulerit. Tantaene animis caelestibus irae?',
+                  source: 'impulerit. Tantaene animīs caelestibus īrae?',
                   translation:
               '(she compelled). Can there be such great anger in the minds of the gods?',
                   minutesTimestamp: 1,
@@ -2405,7 +2405,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8036b3',
-                  source: 'Gauedeamus igitur',
+                  source: 'Gaudeāmus igitur',
                   translation: 'Therefore let us rejoice,',
                   minutesTimestamp: 0,
                   secondsTimestamp: 8,
@@ -2414,7 +2414,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036b4',
-                  source: 'iuvenes dum sumus',
+                  source: 'iuvenēs dum sumus',
                   translation: 'while we are young people',
                   alternateTranslation: 'while we are young men',
                   minutesTimestamp: 0,
@@ -2424,7 +2424,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036b5',
-                  source: 'Gauedeamus igitur',
+                  source: 'Gaudeāmus igitur',
                   translation: 'Therefore let us rejoice,',
                   minutesTimestamp: 0,
                   secondsTimestamp: 14,
@@ -2433,7 +2433,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036b6',
-                  source: 'iuvenes dum sumus',
+                  source: 'iuvenēs dum sumus',
                   translation: 'while we are young people',
                   alternateTranslation: 'while we are young men',
                   minutesTimestamp: 0,
@@ -2451,7 +2451,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8036b8',
-                  source: 'Post iucundam iuventutem',
+                  source: 'Post iūcundam iuventūtem',
                   translation: 'After a pleasant youth',
                   minutesTimestamp: 0,
                   secondsTimestamp: 20,
@@ -2460,7 +2460,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036b9',
-                  source: 'Post molestam senectutem',
+                  source: 'Post molestam senectūtem',
                   translation: 'After a troubling old age',
                   minutesTimestamp: 0,
                   secondsTimestamp: 24,
@@ -2469,7 +2469,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036ba',
-                  source: 'Nos habebit humus',
+                  source: 'Nōs habēbit humus',
                   translation: 'The ground will hold us',
                   minutesTimestamp: 0,
                   secondsTimestamp: 27,
@@ -2478,7 +2478,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036bb',
-                  source: 'Nos habebit humus',
+                  source: 'Nōs habēbit humus',
                   translation: 'The ground will hold us',
                   minutesTimestamp: 0,
                   secondsTimestamp: 31,
@@ -2495,7 +2495,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8036bd',
-                  source: 'Vivat academia!',
+                  source: 'Vīvat acadēmia!',
                   translation: 'Long live the academy!',
                   minutesTimestamp: 0,
                   secondsTimestamp: 42,
@@ -2504,7 +2504,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036be',
-                  source: 'vivant professores!',
+                  source: 'vīvant professōrēs!',
                   translation: 'Long live the professors!',
                   minutesTimestamp: 0,
                   secondsTimestamp: 46,
@@ -2513,7 +2513,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036bf',
-                  source: 'Vivat academia!',
+                  source: 'Vīvat acadēmia!',
                   translation: 'Long live the academy!',
                   minutesTimestamp: 0,
                   secondsTimestamp: 49,
@@ -2522,7 +2522,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036c0',
-                  source: 'vivant professores!',
+                  source: 'vīvant professōrēs!',
                   translation: 'Long live the professors!',
                   minutesTimestamp: 0,
                   secondsTimestamp: 52,
@@ -2539,7 +2539,7 @@ export const getSongs = () => {
               lines: [
                 {
                   _id: '61ca5152e1152c9efa8036c2',
-                  source: 'Vivat membrum quodlibet',
+                  source: 'Vīvat membrum quodlibet',
                   translation: 'Long live each student',
                   minutesTimestamp: 0,
                   secondsTimestamp: 55,
@@ -2548,7 +2548,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036c3',
-                  source: 'Vivant membra quaelibet',
+                  source: 'Vīvant membra quaelibet',
                   translation: 'Long live all the students',
                   minutesTimestamp: 0,
                   secondsTimestamp: 59,
@@ -2557,7 +2557,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036c4',
-                  source: 'Semper sint in flore',
+                  source: 'Semper sint in flōre',
                   translation: 'May they always flourish',
                   minutesTimestamp: 1,
                   secondsTimestamp: 3,
@@ -2566,7 +2566,7 @@ export const getSongs = () => {
                 },
                 {
                   _id: '61ca5152e1152c9efa8036c5',
-                  source: 'Semper sint in flore',
+                  source: 'Semper sint in flōre',
                   translation: 'May they always flourish',
                   minutesTimestamp: 1,
                   secondsTimestamp: 6,

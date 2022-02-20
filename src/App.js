@@ -17,6 +17,7 @@ import Playlist from './components/Playlist'
 const App = () => {
   const [user, setUser] = useState(null)
   const [msgAlerts, setMsgAlerts] = useState([])
+  const [song, setSong] = useState(null)
 
   const clearUser = () => setUser(null)
 
@@ -31,7 +32,7 @@ const App = () => {
 
   return (
     <>
-      <Header user={user} />
+      <Header user={user} song={song} />
       {msgAlerts.map(msgAlert => (
         <AutoDismissAlert
           key={msgAlert.id}
@@ -64,7 +65,8 @@ const App = () => {
             path='/'
             element={<Home msgAlert={msgAlert} />}
           />
-          <Route path='/songs/:id' element={<Song msgAlert={msgAlert} />} />
+          <Route path='/songs/:id' element={<Song msgAlert={msgAlert} song=
+            {song} setSong={setSong} />} />
           <Route path='/playlists/:id' element={<Playlist msgAlert={msgAlert} />} />
 
         </Routes>

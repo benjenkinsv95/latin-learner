@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom'
 import Video from './Video'
 import Sidebar from './Sidebar'
 
-function Song () {
+function Song ({ song, setSong }) {
   const { id } = useParams()
   const { width } = useWindowDimensions()
 
@@ -16,7 +16,6 @@ function Song () {
     flexDirection: width > 900 ? 'row' : 'column'
   }
 
-  const [song, setSong] = useState(null)
   const [player, setPlayer] = useState(null)
   const [playing, setPlaying] = useState(false)
   const [selectedLine, setSelectedLine] = useState(null)
@@ -30,6 +29,11 @@ function Song () {
     getSongById(id)
       .then(response => setSong(response.data.song))
       .catch(console.error)
+
+    return () => {
+      // If we leave this component remove the song
+      setSong(null)
+    }
   }, [])
 
   if (!song) {

@@ -11,6 +11,8 @@ export const getSongs = () => {
           youtubeId: 'FWiyKgeGWx0',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6139289/o-fortuna-carl-orff-lyrics/',
+          repeatSectionsUrl: 'https://gist.github.com/benjenkinsv95/1ed13031ea0ca3c36b45af881b706bc2',
           sections: [
             {
               name: 'Intro',
@@ -375,6 +377,8 @@ export const getSongs = () => {
           youtubeId: 'kJj4Zr7c5OU',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6140871/aeneid-death-of-priam-by-hi-paws-latin-lyrics/',
+          repeatSectionsUrl: 'https://gist.github.com/benjenkinsv95/1b57219ebc3f057bdc6673656bb1bda7',
           sections: [
             {
               name: 'Lines: 526-529',
@@ -824,6 +828,8 @@ export const getSongs = () => {
           youtubeId: 'sbqt6sJ1qLc',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6139401/hello-goodbye-salve-vale-keith-massey-lyrics/',
+          repeatSectionsUrl: '',
           sections: [
             {
               name: 'intro',
@@ -1451,6 +1457,8 @@ export const getSongs = () => {
           youtubeId: 'oUGRJjH0SWQ',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6139267/here-comes-the-sun-keith-massey-translation/',
+          repeatSectionsUrl: '',
           sections: [
             {
               name: '',
@@ -1882,6 +1890,8 @@ export const getSongs = () => {
           youtubeId: 'tqAPkJbZP6k',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6140840/aeneid-11-11-by-hi-paws-latin-lyrics/',
+          repeatSectionsUrl: '',
           sections: [
             {
               name: '',
@@ -2064,6 +2074,8 @@ export const getSongs = () => {
           youtubeId: 'nENQE_g8Az8',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6140836/let-it-be-keith-massey-latin-lyrics/',
+          repeatSectionsUrl: '',
           sections: [
             {
               name: 'intro',
@@ -2398,6 +2410,8 @@ export const getSongs = () => {
           youtubeId: '-wF8ZC0hj2M',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6139404/gaudeamus-igitur-keith-massey-lyrics/',
+          repeatSectionsUrl: '',
           sections: [
             {
               name: '',
@@ -2592,6 +2606,8 @@ export const getSongs = () => {
           youtubeId: 'H0c1QNWH1H8',
           sourceLanguage: 'Latin',
           translationLanguage: 'English',
+          memriseUrl: 'https://app.memrise.com/course/6140845/hellfire-by-scorpiomartinus-vittori-latin-lyrics/',
+          repeatSectionsUrl: '',
           sections: [
             {
               name: 'Archdeacon & Priests',

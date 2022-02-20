@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/latin-learner/static/css/main.3ae8a070.chunk.css",
-    "main.js": "/latin-learner/static/js/main.0dc142d5.chunk.js",
-    "main.js.map": "/latin-learner/static/js/main.0dc142d5.chunk.js.map",
+    "main.css": "/latin-learner/static/css/main.91d23d2d.chunk.css",
+    "main.js": "/latin-learner/static/js/main.39d52cff.chunk.js",
+    "main.js.map": "/latin-learner/static/js/main.39d52cff.chunk.js.map",
     "runtime-main.js": "/latin-learner/static/js/runtime-main.c2618a24.js",
     "runtime-main.js.map": "/latin-learner/static/js/runtime-main.c2618a24.js.map",
-    "static/js/2.5706311b.chunk.js": "/latin-learner/static/js/2.5706311b.chunk.js",
-    "static/js/2.5706311b.chunk.js.map": "/latin-learner/static/js/2.5706311b.chunk.js.map",
+    "static/js/2.eefb300f.chunk.js": "/latin-learner/static/js/2.eefb300f.chunk.js",
+    "static/js/2.eefb300f.chunk.js.map": "/latin-learner/static/js/2.eefb300f.chunk.js.map",
     "index.html": "/latin-learner/index.html",
-    "static/css/main.3ae8a070.chunk.css.map": "/latin-learner/static/css/main.3ae8a070.chunk.css.map",
-    "static/js/2.5706311b.chunk.js.LICENSE.txt": "/latin-learner/static/js/2.5706311b.chunk.js.LICENSE.txt"
+    "static/css/main.91d23d2d.chunk.css.map": "/latin-learner/static/css/main.91d23d2d.chunk.css.map",
+    "static/js/2.eefb300f.chunk.js.LICENSE.txt": "/latin-learner/static/js/2.eefb300f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2618a24.js",
-    "static/js/2.5706311b.chunk.js",
-    "static/css/main.3ae8a070.chunk.css",
-    "static/js/main.0dc142d5.chunk.js"
+    "static/js/2.eefb300f.chunk.js",
+    "static/css/main.91d23d2d.chunk.css",
+    "static/js/main.39d52cff.chunk.js"
   ]
 }

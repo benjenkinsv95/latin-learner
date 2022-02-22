@@ -30,7 +30,13 @@ function Song ({ song, setSong }) {
       .then(response => setSong(response.data.song))
       .catch(console.error)
 
-    return () => {
+    // don't show the overflow (scrollbar) for the body on this page
+    // because we only want overflow on the lyrics
+    document.body.style.overflow = 'hidden'
+    return function cleanup () {
+      // reset the overflow when leaving the component
+      document.body.style.overflow = 'unset'
+
       // If we leave this component remove the song
       setSong(null)
     }
